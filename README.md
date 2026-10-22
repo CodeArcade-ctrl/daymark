@@ -1,5 +1,7 @@
 # Daymark
 
+> **[Open the live app](https://codearcade-ctrl.github.io/daymark/)** · [English version](https://codearcade-ctrl.github.io/daymark/en/)
+
 **Kies kleine gewoontes en vink af wat je vandaag hebt gedaan.**
 
 ## Voor wie?
